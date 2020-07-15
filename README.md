@@ -33,3 +33,5 @@ Content created by: [Stuart Kirk](https://github.com/stuartatmicrosoft) & [Zim K
 
 The content of this program can be re-delivered, on request, to any Microsoft customer seeking to deploy open source workloads on Azure.  Please contact stkirk@microsoft.com for additional details and to coordinate delivery of the program.
 </p>
+
+Doing Lab Exercise
